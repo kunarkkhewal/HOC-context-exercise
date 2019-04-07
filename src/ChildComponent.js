@@ -1,5 +1,5 @@
 import React from 'react';
-import AuthenticationContext from '.AuthenticationContext/';
+import AuthenticationContext from './AuthenticationContext';
 import InjectAuthentication from './InjectAuthentication';
 
 const ChildComponent = props => {
